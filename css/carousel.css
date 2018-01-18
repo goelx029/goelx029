@@ -51,6 +51,10 @@ body {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
+.checked {
+  color: orange;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
